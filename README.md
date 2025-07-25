@@ -22,5 +22,5 @@ A fully functional blog system built with Django, inspired by the "Django by Exa
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/django-blog.git
+git clone https://github.com/FatMAnsour/Blog-System.git
 cd django-blog
