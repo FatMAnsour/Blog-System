@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.pyo
+*.log
+
+# Django
+db.sqlite3
+.env
+*.pot
+*.pyc
+
+# Docker
+*.db
+*.pid
+*.swp
+*.sock
+
+# Virtual environments
+env/
+venv/
+ENV/
+.envrc
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Static/media artifacts (if generated)
+staticfiles/
+media/
+node_modules/
+
+# OS-specific
+.DS_Store
+Thumbs.db
