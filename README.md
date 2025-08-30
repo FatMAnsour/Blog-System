@@ -12,7 +12,7 @@ A fully functional blog system built with Django, inspired by the "Django by Exa
 - 🔎 Search functionality
 - 📡 RSS & Atom feeds for posts
 - 🗺️ XML sitemap for SEO
-- 🐳 Docker support (optional)
+- 🐳 Docker support 
 - ⚙️ Admin panel for content management
 
 ---
